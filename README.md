@@ -1,0 +1,2 @@
+- Tạo bảng quan hệ gồm: Phòng ban + quản lý + nhân viên tạo quan hệ các bảng
+- Sau đó làm crud + tìm kiếm + phân trang
